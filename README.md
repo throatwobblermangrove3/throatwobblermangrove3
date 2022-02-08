@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @throatwobblermangrove3
-- 👀 I’m interested in Odoo, Linux, Secure Server, Server Hardening, Firewalld, git, TCP/IP communications. Poplog
-- 🌱 I’m currently learning git, Odoo
-- 💞️ I’m looking to collaborate on ... life, health, and well being. Along time ago before the time of the e1000 linux driver, there was a Solaris driver written by fast food afficionados. grep the file for fries
+- 👀 I’m interested in Odoo, Linux, Secure Server, Server Hardening, Firewalld, Cyber Security, TCP/IP communications in general, Poplog, carpentry, auto mechanics, and radios.
+- 🌱 I’m currently working with Ansible, Ubuntu, Docker, Containers, Word Press, and Digital Ocean droplets
+- 💞️ Intesting factoid, one of the original Solaris etherent network drivers was written by fast food afficionados. grep the file for fries and you will  see what I mean.
 - 📫 How to reach me https://www.tritel.io
 
 <!---
